@@ -4,3 +4,4 @@
 - Clayd Lena
 - Amadeu Joaquim
 - Abel Laite
+- Celso De Carvalho
