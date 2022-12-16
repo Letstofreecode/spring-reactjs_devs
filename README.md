@@ -6,3 +6,4 @@
 - Abel Laite
 - Celso De Carvalho
 - Benedito Muianga
+- Kelven Cassamo
