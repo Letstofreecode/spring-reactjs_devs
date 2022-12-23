@@ -7,3 +7,4 @@
 - Celso De Carvalho
 - Benedito Muianga
 - Kelven Cassamo
+- Nayara Valy
